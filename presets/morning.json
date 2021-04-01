@@ -1,0 +1,35 @@
+{
+  "players": [
+    {
+      "roomName": "Office",
+      "volume": 35,
+      "equalizer": {
+        "loudness": false
+      }
+    },
+    {
+      "roomName": "Kitchen",
+      "volume": 35,
+      "equalizer": {
+        "loudness": false
+      }
+    },
+    {
+      "roomName": "Kol Hagag",
+      "volume": 35,
+      "equalizer": {
+        "loudness": false
+      }
+    }
+  ],
+  "playMode": {
+    "shuffle": true,
+    "repeat": "all",
+    "crossfade": false
+  },
+  "pauseOthers": false,
+  "equalizer": {
+    "loudness": false
+  },
+  "favorite": "Morning Playlist"
+}

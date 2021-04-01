@@ -1,8 +1,8 @@
 node_modules
-presets.json
-presets/
+#presets.json
+#presets/
 cache
-settings.json
+#settings.json
 static/tts
 .idea
 .ntvs_analysis.dat

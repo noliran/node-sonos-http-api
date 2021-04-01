@@ -1,0 +1,19 @@
+{
+  "aws": {
+    "credentials": {
+      "region": "eu-west-1",
+      "accessKeyId": "",
+      "secretAccessKey": ""
+    },
+    "name": "Joanna"
+  },
+  "port": 5005,
+  "ip": "0.0.0.0",
+  "announceVolume": 40,
+  "spotify": {
+  },
+  "library": {
+    "randomQueueLimit": 50
+  }
+}
+
