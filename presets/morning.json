@@ -4,21 +4,28 @@
       "roomName": "Office",
       "volume": 35,
       "equalizer": {
-        "loudness": false
+        "loudness": true
       }
     },
     {
       "roomName": "Kitchen",
       "volume": 35,
       "equalizer": {
-        "loudness": false
+        "loudness": true
       }
     },
     {
       "roomName": "Kol Hagag",
       "volume": 35,
       "equalizer": {
-        "loudness": false
+        "loudness": true
+      }
+    },
+    {
+      "roomName": "Roam",
+      "volume": 35,
+      "equalizer": {
+        "loudness": true
       }
     }
   ],
@@ -29,7 +36,7 @@
   },
   "pauseOthers": false,
   "equalizer": {
-    "loudness": false
+    "loudness": true
   },
   "favorite": "Morning Playlist"
 }
